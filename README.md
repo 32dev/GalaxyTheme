@@ -1,13 +1,16 @@
-<img width="325" height="100" alt="logo2" src="https://github.com/user-attachments/assets/7bd9520b-6917-4d53-8b66-be3de15d42a8" />
+<p align="center">
+  <img width="325" alt="logo2" src="https://github.com/user-attachments/assets/7bd9520b-6917-4d53-8b66-be3de15d42a8" />
+</p>
 
 ---
+<br>
 
 This is a theme made for the Pterodactyl game server management panel.\
 **Note: This theme was last tested on Pterodactyl v2.0.0-beta.2**
 
 If you have any issues, contact me on discord: https://discord.gg/sYGhc48k6P
 
-<br><br>
+<br>
 
 ## Instructions
 
