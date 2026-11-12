@@ -1,0 +1,21 @@
+{
+    "id": "galaxy",
+    "type": "theme",
+    "name": "Galaxy",
+    "version": "1.0.0",
+    "description": "Galaxy Theme by 32dev",
+    "author": "32dev",
+    "icon": "palette",
+    "requires": { "panel": "^2.0.0-dev", "sdk": ">=2.0.0-beta.5 <3.0" },
+    "theme": {
+        "extends": "classic",
+        "stylesheet": "dist/theme.css",
+        "schemes": ["dark"],
+        "settings": {
+            "accent": { "type": "color", "label": "Accent", "default": "#8b5cf6", "token": "--galaxy-accent" },
+            "blur": { "type": "number", "label": "Glass blur", "default": 18, "min": 0, "max": 40, "step": 2, "unit": "px", "token": "--galaxy-blur" },
+            "radius": { "type": "number", "label": "Corner radius", "default": 1.125, "min": 0.25, "max": 1.75, "step": 0.125, "unit": "rem", "token": "--radius" },
+            "animate": { "type": "toggle", "label": "Animated background", "default": true, "attribute": "data-galaxy-animate" }
+        }
+    }
+}
