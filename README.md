@@ -10,6 +10,8 @@ This is a theme made for the Pterodactyl game server management panel.\
 
 If you have any issues, contact me on discord: https://discord.gg/sYGhc48k6P
 
+<img width="957" height="448" alt="image" src="https://github.com/user-attachments/assets/2790bcbb-330e-4f8f-8b5b-1894e46b8777" />
+
 <br>
 
 ## Instructions
@@ -73,3 +75,15 @@ php artisan p:extension:remove galaxy
 ```
 
 </details>
+
+## Images
+
+<details>
+  <summary>View Screenshots</summary>
+<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/2790bcbb-330e-4f8f-8b5b-1894e46b8777" />
+
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/fb899e6f-aeb1-4062-b15c-7ae732edc800" />
+
+<img width="1910" height="904" alt="image" src="https://github.com/user-attachments/assets/87d5d4de-7d65-4a1f-b67e-1a578f1b2414" />
+</details>
+
